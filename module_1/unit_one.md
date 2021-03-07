@@ -20,4 +20,4 @@ in memory, these are some of the built in types in this category
 str stands for string in python and used for storing text.  Strings can be written
 in single quotes or double quotes.
 
-Example: ![](https://hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-s63531s3.png)
+Example: ![str example](https://hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-s63531s3.png)
