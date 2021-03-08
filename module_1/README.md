@@ -186,3 +186,78 @@ output:
 ```python
 <class 'dict'>
 ```
+
+---
+
+## Set types
+
+### Set
+
+A **set** is a data type where you can store a collection of data. A set
+can also contain different data types. A set is **unordered** and **unindexed** and **allows no duplicate members**.
+
+Example:
+
+![set example](https://hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-lx5j31rj.jpeg)
+
+output:
+
+```python
+{'Black Widow', 'Iron Man', 'Thor', 'Hawkeye', 'Hulk', 'Captain America'}
+```
+
+```python
+<class 'set'>
+```
+
+---
+
+### Frozenset
+
+A frozenset data type can be created by the frozenset() function. The
+frozenset() function accepts an iterable and returns an unchageable frozenset object
+(which is like a set object, only unchageable)
+
+Example:
+
+![frozenset example](https://hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-jq5t31d8.jpeg)
+
+output:
+
+```python
+frozenset({'cherry', 'banana', 'apple'})
+```
+
+```python
+<class 'frozenset'>
+```
+
+---
+
+## Boolean types
+
+### bool
+
+bool stands for boolean in python. Boolean represents two values: True or False
+
+Example:
+
+![boolean example](https://hackernoon.com/images/B6I7WEwrKubf11jAWFL33iiMzR13-q96631sw.jpeg)
+
+output:
+
+```python
+True
+```
+
+```python
+<class 'bool'>
+```
+
+```python
+False
+```
+
+```python
+<class 'bool'>
+```
